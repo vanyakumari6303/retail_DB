@@ -67,6 +67,3 @@ WHERE c.customer_id = 1;
 3. Insert sample data
 4. Run stored procedures for monthly reports and comparisons
 
-## License
-
-This project is open-source and free to use.
